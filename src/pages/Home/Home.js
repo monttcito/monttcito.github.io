@@ -1,8 +1,7 @@
 import React from "react";
 import {
   FaLinkedin,
-  FaYoutubeSquare,
-  FaBehanceSquare,
+  FaInstagramSquare,
   FaGithubSquare,
   FaFileDownload,
 } from "react-icons/fa";
@@ -33,39 +32,34 @@ const Home = () => {
       <Row>
         <Col>
           <span className={`${styles.textWhite} ${styles.headingOne}`}>
-            Aditya Vikram Singh
+            Carlos Montoya Mansilla
           </span>
         </Col>
       </Row>
       <Row>
         <Col>
           <span className={`${styles.textWhite} ${styles.headingThree}`}>
-            Software Engineer, Full-Stack Developer, College Student
+            Ingeniero Eléctrico
           </span>
         </Col>
       </Row>
       <Row>
         <Col>
-          <a href="https://www.github.com/AVS1508" target="_blank_">
+          <a href="https://www.github.com/monttcito" target="_blank_">
             <FaGithubSquare className={styles.icon} />
           </a>
         </Col>
         <Col>
-          <a href="https://www.behance.net/AVS1508" target="_blank_">
-            <FaBehanceSquare className={styles.icon} />
-          </a>
-        </Col>
-        <Col>
-          <a href="https://www.linkedin.com/in/avs1508" target="_blank_">
+          <a href="https://www.linkedin.com/in/carlosmontoyam/" target="_blank_">
             <FaLinkedin className={styles.icon} />
           </a>
         </Col>
         <Col>
           <a
-            href="https://www.youtube.com/channel/UCOrl4Ba4pJBDUHzDvX4GFiQ"
+            href="https://www.instagram.com/montt0202/"
             target="_blank_"
           >
-            <FaYoutubeSquare className={styles.icon} />
+            <FaInstagramSquare className={styles.icon} />
           </a>
         </Col>
       </Row>
@@ -75,7 +69,7 @@ const Home = () => {
             logo={<FaFileDownload className={styles.iconSmall} />}
             href="./resume.html"
           >
-            Résumé
+            Curriculum Vitae
           </ProfileButton>
         </Col>
       </Row>

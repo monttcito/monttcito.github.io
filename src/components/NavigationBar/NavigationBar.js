@@ -16,7 +16,7 @@ const NavigationBar = (props) => {
     >
       <Container fluid>
         <Navbar.Brand style={{ color: "white", fontWeight: "500" }}>
-          Aditya Vikram Singh
+          Carlos Montoya M.
         </Navbar.Brand>
         <Navbar.Toggle
           className="ms-auto"
@@ -37,7 +37,7 @@ const NavigationBar = (props) => {
                   : styles.inactiveLink
               }
             >
-              Home
+              Inicio
             </Nav.Link>
             <Nav.Link
               eventKey="projects"
@@ -47,7 +47,7 @@ const NavigationBar = (props) => {
                   : styles.inactiveLink
               }
             >
-              Projects
+              Formación
             </Nav.Link>
             <Nav.Link
               eventKey="experience"
@@ -57,7 +57,7 @@ const NavigationBar = (props) => {
                   : styles.inactiveLink
               }
             >
-              Experience
+              Cargos
             </Nav.Link>
             <Nav.Link
               eventKey="involvements"
@@ -67,7 +67,7 @@ const NavigationBar = (props) => {
                   : styles.inactiveLink
               }
             >
-              Involvements
+              Experiencia
             </Nav.Link>
             <Nav.Link
               eventKey="achievements"
@@ -77,7 +77,7 @@ const NavigationBar = (props) => {
                   : styles.inactiveLink
               }
             >
-              Achievements
+              Extra
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>
