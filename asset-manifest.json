@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c69b1bc6.css",
-    "main.js": "/static/js/main.07beaf46.js",
+    "main.js": "/static/js/main.ddabf190.js",
     "static/css/598.9f0381a2.chunk.css": "/static/css/598.9f0381a2.chunk.css",
     "static/js/598.e3ca6623.chunk.js": "/static/js/598.e3ca6623.chunk.js",
     "static/css/866.3198c867.chunk.css": "/static/css/866.3198c867.chunk.css",
@@ -14,13 +14,13 @@
     "static/js/385.89afc169.chunk.js": "/static/js/385.89afc169.chunk.js",
     "static/js/697.4ae9e464.chunk.js": "/static/js/697.4ae9e464.chunk.js",
     "static/media/perpetual-crusades.jpg": "/static/media/perpetual-crusades.afc69c1bf50a272f7d1f.jpg",
-    "static/media/background.jpg": "/static/media/background.22687e163f7b2a60d9e2.jpg",
-    "static/media/background.webp": "/static/media/background.242e69fd2140b51af669.webp",
+    "static/media/background.jpg": "/static/media/background.de9b5bc5d0fd5a9ef030.jpg",
     "static/media/project-urefer.jpg": "/static/media/project-urefer.65c700d2f7e35ce24442.jpg",
-    "static/media/professional-headshot.jpg": "/static/media/professional-headshot.c62f405cc294d43902ae.jpg",
+    "static/media/professional-headshot.jpg": "/static/media/professional-headshot.5dccbe3e0cf22e9a15d8.jpg",
     "static/media/cics-logo.jpg": "/static/media/cics-logo.a5452fdc02bb33b3ce6d.jpg",
-    "static/media/professional-headshot.webp": "/static/media/professional-headshot.439b736c4cd1307791bd.webp",
+    "static/media/background.webp": "/static/media/background.50f764c1d8b1f36476e1.webp",
     "static/media/project-urefer.webp": "/static/media/project-urefer.7fdbdee9312001153465.webp",
+    "static/media/professional-headshot.webp": "/static/media/professional-headshot.2fe97369e70aeca31ff7.webp",
     "static/media/hackumass-website.jpg": "/static/media/hackumass-website.e9269db3b6e98630dec4.jpg",
     "static/media/virtubox-logo.jpg": "/static/media/virtubox-logo.91c9e08a686cf1417528.jpg",
     "static/media/umass-logo.jpg": "/static/media/umass-logo.2a5b245f963f9ed636f3.jpg",
@@ -45,7 +45,7 @@
     "static/media/cicsoft-logo.webp": "/static/media/cicsoft-logo.485013520a43aaa7870f.webp",
     "static/media/ilinkdigital-logo.webp": "/static/media/ilinkdigital-logo.8763b6b78896d67068a7.webp",
     "main.c69b1bc6.css.map": "/static/css/main.c69b1bc6.css.map",
-    "main.07beaf46.js.map": "/static/js/main.07beaf46.js.map",
+    "main.ddabf190.js.map": "/static/js/main.ddabf190.js.map",
     "598.9f0381a2.chunk.css.map": "/static/css/598.9f0381a2.chunk.css.map",
     "598.e3ca6623.chunk.js.map": "/static/js/598.e3ca6623.chunk.js.map",
     "866.3198c867.chunk.css.map": "/static/css/866.3198c867.chunk.css.map",
@@ -60,6 +60,6 @@
   },
   "entrypoints": [
     "static/css/main.c69b1bc6.css",
-    "static/js/main.07beaf46.js"
+    "static/js/main.ddabf190.js"
   ]
 }
