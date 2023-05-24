@@ -14,7 +14,7 @@ const Sitemap = require("react-router-sitemap").default;
 
 const generateSitemap = () =>
   new Sitemap(router)
-    .build("https://monttcito.github.io/pagina/")
+    .build("https://monttcito.github.io/")
     .save("./public/sitemap.xml");
 
 generateSitemap();
