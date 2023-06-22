@@ -77,7 +77,7 @@ const NavigationBar = (props) => {
                   : styles.inactiveLink
               }
             >
-              Extra
+              Hobbie
             </Nav.Link>
           </Nav>
         </Navbar.Collapse>

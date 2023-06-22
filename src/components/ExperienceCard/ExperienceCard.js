@@ -37,62 +37,126 @@ const assets = {
       className={`card-img ${styles.image}`}
     />
   ),
-  // ILinkDigital: (
-  //   <ImageHolder
-  //     primarySource={Asset.ILinkDigitalLogo}
-  //     secondarySource={Asset.FallbackILinkDigitalLogo}
-  //     alt="iLink Digital Inc."
-  //     className={`card-img ${styles.image}`}
-  //   />
-  // ),
-  // InnovationM: (
-  //   <ImageHolder
-  //     primarySource={Asset.InnovationMLogo}
-  //     secondarySource={Asset.FallbackInnovationMLogo}
-  //     alt="InnovationM Mobile & Web Technologies"
-  //     className={`card-img ${styles.image}`}
-  //   />
-  // ),
-  // VirtuBox: (
-  //   <ImageHolder
-  //     primarySource={Asset.VirtuBoxLogo}
-  //     secondarySource={Asset.FallbackVirtuBoxLogo}
-  //     alt="VirtuBox Infotech"
-  //     className={`card-img ${styles.image}`}
-  //   />
-  // ),
-  // UMass: (
-  //   <ImageHolder
-  //     primarySource={Asset.UMassLogo}
-  //     secondarySource={Asset.FallbackUMassLogo}
-  //     alt="University of Massachusetts Amherst"
-  //     className={`card-img ${styles.image}`}
-  //   />
-  // ),
-  // DPSRKP: (
-  //   <ImageHolder
-  //     primarySource={Asset.DPSRKPLogo}
-  //     secondarySource={Asset.FallbackDPSRKPLogo}
-  //     alt="Delhi Public School, R. K. Puram"
-  //     className={`card-img ${styles.image}`}
-  //   />
-  // ),
-  // "TEDx@DPSRKP": (
-  //   <ImageHolder
-  //     primarySource={Asset.TEDxLogo}
-  //     secondarySource={Asset.FallbackTEDxLogo}
-  //     alt="TEDxYouth@DPSRKPuram"
-  //     className={`card-img ${styles.image}`}
-  //   />
-  // ),
-  // Aeross: (
-  //   <ImageHolder
-  //     primarySource={Asset.AerossLogo}
-  //     secondarySource={Asset.FallbackAerossLogo}
-  //     alt="Aerospace Society, D.P.S. R. K. Puram"
-  //     className={`card-img ${styles.image}`}
-  //   />
-  // ),
+  "aislacion": (
+    <ImageHolder
+      primarySource={Asset.aislacion}
+      secondarySource={Asset.Fallbackaislacion}
+      alt="aislacion"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "contacto": (
+    <ImageHolder
+      primarySource={Asset.contacto}
+      secondarySource={Asset.Fallbackcontacto}
+      alt="contacto"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "cpc100": (
+    <ImageHolder
+      primarySource={Asset.cpc100}
+      secondarySource={Asset.Fallbackcpc100}
+      alt="cpc100"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "devanado": (
+    <ImageHolder
+      primarySource={Asset.devanado}
+      secondarySource={Asset.Fallbackdevanado}
+      alt="devanado"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "hipot": (
+    <ImageHolder
+      primarySource={Asset.hipot}
+      secondarySource={Asset.Fallbackhipot}
+      alt="hipot"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "inyeccion": (
+    <ImageHolder
+      primarySource={Asset.inyeccion}
+      secondarySource={Asset.Fallbackinyeccion}
+      alt="inyeccion"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "isa": (
+    <ImageHolder
+      primarySource={Asset.isa}
+      secondarySource={Asset.Fallbackisa}
+      alt="isa"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "seu": (
+    <ImageHolder
+      primarySource={Asset.seu}
+      secondarySource={Asset.Fallbackseu}
+      alt="paso"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "correa": (
+    <ImageHolder
+      primarySource={Asset.correa}
+      secondarySource={Asset.Fallbackcorrea}
+      alt="correa"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "swg": (
+    <ImageHolder
+      primarySource={Asset.swg}
+      secondarySource={Asset.Fallbackswg}
+      alt="swg"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "tc": (
+    <ImageHolder
+      primarySource={Asset.tc}
+      secondarySource={Asset.Fallbacktc}
+      alt="tc"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "trafo": (
+    <ImageHolder
+      primarySource={Asset.trafo}
+      secondarySource={Asset.Fallbacktrafo}
+      alt="trafo"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "vlf": (
+    <ImageHolder
+      primarySource={Asset.vlf}
+      secondarySource={Asset.Fallbackvlf}
+      alt="vlf"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "chancado": (
+    <ImageHolder
+      primarySource={Asset.chancado}
+      secondarySource={Asset.Fallbackchancado}
+      alt="chancado"
+      className={`card-img ${styles.image}`}
+    />
+  ),
+  "salaelectrica": (
+    <ImageHolder
+      primarySource={Asset.salaelectrica}
+      secondarySource={Asset.Fallbacksalaelectrica}
+      alt="salaelectrica"
+      className={`card-img ${styles.image}`}
+    />
+  ),
 };
 
 const ExperienceCard = (props) => {

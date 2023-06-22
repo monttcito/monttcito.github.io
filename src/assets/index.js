@@ -21,10 +21,10 @@ export { default as inyeccion } from "./organizations/webp/inyeccion.webp";
 export { default as Fallbackinyeccion } from "./organizations/jpg/inyeccion.jpg";
 export { default as isa } from "./organizations/webp/isa.webp";
 export { default as Fallbackisa } from "./organizations/jpg/isa.jpg";
-export { default as paso } from "./organizations/webp/paso.webp";
-export { default as Fallbackpaso } from "./organizations/jpg/paso.jpg";
-export { default as ssee } from "./organizations/webp/ssee.webp";
-export { default as Fallbackssee } from "./organizations/jpg/ssee.jpg";
+export { default as seu } from "./organizations/webp/seu.webp";
+export { default as Fallbackseu } from "./organizations/jpg/seu.jpg";
+export { default as chancado } from "./organizations/webp/chancado.webp";
+export { default as Fallbackchancado } from "./organizations/jpg/chancado.jpg";
 export { default as swg } from "./organizations/webp/swg.webp";
 export { default as Fallbackswg } from "./organizations/jpg/swg.jpg";
 export { default as tc } from "./organizations/webp/tc.webp";
@@ -33,6 +33,12 @@ export { default as trafo } from "./organizations/webp/trafo.webp";
 export { default as Fallbacktrafo } from "./organizations/jpg/trafo.jpg";
 export { default as vlf } from "./organizations/webp/vlf.webp";
 export { default as Fallbackvlf } from "./organizations/jpg/vlf.jpg";
+export { default as correa } from "./organizations/webp/correa.webp";
+export { default as Fallbackcorrea } from "./organizations/jpg/correa.jpg";
+export { default as salaelectrica } from "./organizations/webp/salaelectrica.webp";
+export { default as Fallbacksalaelectrica } from "./organizations/jpg/salaelectrica.jpg";
+
+
 
 // Personal Assets
 export { default as ProfessionalHeadshot } from "./personal/webp/professional-headshot.webp";

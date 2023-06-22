@@ -1,32 +1,152 @@
 [
   {
-    "title": "trafo",
-    "organization": "",
-    "liveUrl": "",
-    "duration": "",
+    "title": "Chancador Giratorio Superior MK II",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
     "description": [
-      "Lead 8 core members in optimizing logistics, outreach, teaching, and development, coordinating with other co-president"
+      "He realizado tareas de mantenimiento eléctrico en chancador modelo MK II y sus instrumentos asociados, junto con la resolución de fallas asociados a estos."
+    ],
+    "logo": "chancado"
+  },
+  {
+    "title": "Correas transportadoras de mineral",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Entre las labores que he realizado para sistemas de transporte de mineral se encuentra el manteniemiento preventivo y correctivo de la instrumentación eléctrica asociado a estos sistemas."
+    ],
+    "logo": "correa"
+  },
+  {
+    "title": "Subestación Eléctrica Unitaria",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Puestas en marcha y comisionamiento de salas eléctricas unitarias para distintas empresas del ámbito eléctrico nacional."
+    ],
+    "logo": "seu"
+  },
+  {
+    "title": "Salas Eléctricas",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Puestas en marcha, comisionamiento y mantenimiento de salas eléctricas y sus componentes."
+    ],
+    "logo": "salaelectrica"
+  },
+  {
+    "title": "Transformadores de Poder",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Pruebas eléctricas y mantenimiento de transformadores de poder de hasta 250MVA."
     ],
     "logo": "trafo"
   },
   {
-    "title": "trafo",
-    "organization": "",
-    "liveUrl": "",
-    "duration": "",
+    "title": "Pruebas eléctricas con Omicron CPC100",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
     "description": [
-      "Lead 8 core members in optimizing logistics, outreach, teaching, and development, coordinating with other co-president"
+      "Pruebas eléctricas a distintos equipos de subestaciones, también pruebas de inyección de corriente y tensión usando la maleta de pruebas CPC100 Marca Omicron."
     ],
-    "logo": "trafo"
+    "logo": "cpc100"
   },
   {
-    "title": "trafo",
-    "organization": "",
-    "liveUrl": "",
-    "duration": "",
+    "title": "Pruebas de inyección de corriente con Omicron CP CU1",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
     "description": [
-      "Lead 8 core members in optimizing logistics, outreach, teaching, and development, coordinating with other co-president"
+      "Pruebas de inyección de corriente de hasta 30kA usando maleta de pruebas CPC100 y su extensión CP CU1 ambos marca Omicron."
     ],
-    "logo": "trafo"
+    "logo": "inyeccion"
+  },
+  {
+    "title": "Pruebas HiPOT",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Realización de pruebas HiPOT y protocolarización de resultados a lineas de transmisión y cables."
+    ],
+    "logo": "hipot"
+  },
+  {
+    "title": "Switchgears",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Tareas de mantenimiento preventivo en Switchgears."
+    ],
+    "logo": "swg"
+  },
+  {
+    "title": "Pruebas VLF a cables con equipo VIOLA marca BAUR",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Pruebas de cables MT usando equipo VLF modelo Viola marca BAUR."
+    ],
+    "logo": "vlf"
+  },
+  {
+    "title": "Pruebas de transformadores de corriente.",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Pruebas de transformadores de corriente usando equipo modelo CT Analizer marca Omicron."
+    ],
+    "logo": "tc"
+  },
+  {
+    "title": "Pruebas de resistencia de aislación",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Pruebas de resistencia de aislación a diversos equipos usando el MIT 1025 marca Megger"
+    ],
+    "logo": "aislacion"
+  },
+  {
+    "title": "Pruebas de resistencia de contacto",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "pruebas de resistencia de contacto usando equipo Mjolner 600 marca Megger."
+    ],
+    "logo": "contacto"
+  },
+  {
+    "title": "Pruebas de resistencia de devanados a transformadores",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Pruebas de resistencia de devanados a transformadores de poder usando equipo MTO210 marca Megger."
+    ],
+    "logo": "devanado"
+  },
+  {
+    "title": "Pruebas de factor de potencia",
+    "organization": null,
+    "liveUrl": null,
+    "duration": null,
+    "description": [
+      "Pruebas de factor de potencia a distintos equipos usando STS5000 marca ISA o Delta4000 marca Megger."
+    ],
+    "logo": "isa"
   }
 ]
