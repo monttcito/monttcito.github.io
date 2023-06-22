@@ -4,29 +4,29 @@ import { ImageHolder } from "..";
 import * as Asset from "../../assets";
 import { FaReact, FaCss3Alt, FaHtml5, FaBootstrap } from "react-icons/fa";
 import { SiNestjs, SiMysql } from "react-icons/si";
-import styles from "./ProjectCard.module.css";
+import styles from "./ProjectsCard.module.css";
 
 const assets = {
-  "Perpetual Crusades": (
+  "Universidad T. Federico Santa María": (
     <ImageHolder
-      primarySource={Asset.PerpetualCrusades}
-      secondarySource={Asset.FallbackPerpetualCrusades}
+      primarySource={Asset.UTFSM}
+      secondarySource={Asset.FallbackUTFSM}
       alt="Perpetual Crusades"
       className="card-img"
     />
   ),
-  "Project URefer": (
+  "Pontificia Universidad Católica de Valparaíso": (
     <ImageHolder
-      primarySource={Asset.ProjectURefer}
-      secondarySource={Asset.FallbackProjectURefer}
+      primarySource={Asset.PUCV}
+      secondarySource={Asset.FallbackPUCV}
       alt="Project URefer"
       className="card-img"
     />
   ),
-  "HackUMass Website": (
+  "Pontificia Universidad Católica de Valparaíso": (
     <ImageHolder
-      primarySource={Asset.HackUMassWebsite}
-      secondarySource={Asset.FallbackHackUMassWebsite}
+      primarySource={Asset.PUCV}
+      secondarySource={Asset.FallbackPUCV}
       alt="HackUMass Website"
       className="card-img"
     />
@@ -44,7 +44,7 @@ const icons = {
   MySQL: <SiMysql className={styles.icon} style={{ color: "#4479A1" }} />,
 };
 
-const ProjectCard = (props) => {
+const ProjectsCard = (props) => {
   return (
     <Card className={styles.container}>
       {assets[props.title]}
@@ -79,4 +79,4 @@ const ProjectCard = (props) => {
   );
 };
 
-export default ProjectCard;
+export default ProjectsCard;

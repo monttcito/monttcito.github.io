@@ -4,10 +4,10 @@ import styles from "./Header.module.css";
 
 const Header = (props) => {
   const backgroundStyle = {
-    Projects: styles.projects,
-    Experience: styles.experience,
-    Involvements: styles.involvements,
-    Achievements: styles.achievements,
+    Formación: styles.projects,
+    Cargos: styles.experience,
+    Experiencia: styles.involvements,
+    Hobbie: styles.achievements,
   };
   return (
     <Container

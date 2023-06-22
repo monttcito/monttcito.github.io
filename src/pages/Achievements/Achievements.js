@@ -7,7 +7,7 @@ import styles from "./Achievements.module.css";
 const Achievements = () => {
   return (
     <React.Fragment>
-      <Header title="Achievements" />
+      <Header title="Hobbie" />
       <Container fluid className={styles.container}>
         <Row
           style={{

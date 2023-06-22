@@ -25,7 +25,7 @@ const Home = () => {
         <ImageHolder
           primarySource={ProfessionalHeadshot}
           secondarySource={FallbackProfessionalHeadshot}
-          alt="Professional Headshot of Aditya Vikram Singh"
+          alt="Professional Headshot of Carlos Montoya Mansilla"
           className={styles.professionalHeadshot}
         />
       </Row>
@@ -39,28 +39,33 @@ const Home = () => {
       <Row>
         <Col>
           <span className={`${styles.textWhite} ${styles.headingThree}`}>
-            Ingeniero Eléctrico
+            INGENIERO ELÉCTRICO
           </span>
         </Col>
       </Row>
       <Row>
-        <Col>
-          <a href="https://www.github.com/monttcito" target="_blank_">
-            <FaGithubSquare className={styles.icon} />
-          </a>
-        </Col>
-        <Col>
+        {/* <Col>
           <a href="https://www.linkedin.com/in/carlosmontoyam/" target="_blank_">
-            <FaLinkedin className={styles.icon} />
+          <FaLinkedin className={styles.icon} />
           </a>
-        </Col>
-        <Col>
+        </Col> */}
+        {/* <Col>
           <a
             href="https://www.instagram.com/montt0202/"
             target="_blank_"
           >
             <FaInstagramSquare className={styles.icon} />
           </a>
+        </Col> */}
+      </Row>
+      <Row>
+        <Col>
+          <ProfileButton
+            logo={<FaLinkedin className={styles.iconSmall} />}
+            href="https://www.linkedin.com/in/carlosmontoyam/"
+          >
+            Linkedin
+          </ProfileButton>
         </Col>
       </Row>
       <Row>

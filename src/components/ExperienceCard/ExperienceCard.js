@@ -5,94 +5,94 @@ import * as Asset from "../../assets";
 import styles from "./ExperienceCard.module.css";
 
 const assets = {
-  CICS: (
+  "sigma": (
     <ImageHolder
-      primarySource={Asset.CICSLogo}
-      secondarySource={Asset.FallbackCICSLogo}
-      alt="Manning CICS"
+      primarySource={Asset.sigma}
+      secondarySource={Asset.Fallbacksigma}
+      alt="sigma"
       className={`card-img ${styles.image}`}
     />
   ),
-  CICSoft: (
+  "eecol": (
     <ImageHolder
-      primarySource={Asset.CICSoftLogo}
-      secondarySource={Asset.FallbackCICSoftLogo}
-      alt="CICSoft"
+      primarySource={Asset.eecol}
+      secondarySource={Asset.Fallbackeecol}
+      alt="Eecol Electric"
       className={`card-img ${styles.image}`}
     />
   ),
-  BUILD: (
+  "proimel": (
     <ImageHolder
-      primarySource={Asset.BUILDUMassLogo}
-      secondarySource={Asset.FallbackBUILDUMassLogo}
-      alt="BUILD UMass"
+      primarySource={Asset.proimel}
+      secondarySource={Asset.Fallbackproimel}
+      alt="Proimel"
       className={`card-img ${styles.image}`}
     />
   ),
-  HackUMass: (
+  "labo": (
     <ImageHolder
-      primarySource={Asset.HackUMassLogo}
-      secondarySource={Asset.FallbackHackUMassLogo}
-      alt="HackUMass"
+      primarySource={Asset.labo}
+      secondarySource={Asset.Fallbacklabo}
+      alt="labo"
       className={`card-img ${styles.image}`}
     />
   ),
-  ILinkDigital: (
-    <ImageHolder
-      primarySource={Asset.ILinkDigitalLogo}
-      secondarySource={Asset.FallbackILinkDigitalLogo}
-      alt="iLink Digital Inc."
-      className={`card-img ${styles.image}`}
-    />
-  ),
-  InnovationM: (
-    <ImageHolder
-      primarySource={Asset.InnovationMLogo}
-      secondarySource={Asset.FallbackInnovationMLogo}
-      alt="InnovationM Mobile & Web Technologies"
-      className={`card-img ${styles.image}`}
-    />
-  ),
-  VirtuBox: (
-    <ImageHolder
-      primarySource={Asset.VirtuBoxLogo}
-      secondarySource={Asset.FallbackVirtuBoxLogo}
-      alt="VirtuBox Infotech"
-      className={`card-img ${styles.image}`}
-    />
-  ),
-  UMass: (
-    <ImageHolder
-      primarySource={Asset.UMassLogo}
-      secondarySource={Asset.FallbackUMassLogo}
-      alt="University of Massachusetts Amherst"
-      className={`card-img ${styles.image}`}
-    />
-  ),
-  DPSRKP: (
-    <ImageHolder
-      primarySource={Asset.DPSRKPLogo}
-      secondarySource={Asset.FallbackDPSRKPLogo}
-      alt="Delhi Public School, R. K. Puram"
-      className={`card-img ${styles.image}`}
-    />
-  ),
-  "TEDx@DPSRKP": (
-    <ImageHolder
-      primarySource={Asset.TEDxLogo}
-      secondarySource={Asset.FallbackTEDxLogo}
-      alt="TEDxYouth@DPSRKPuram"
-      className={`card-img ${styles.image}`}
-    />
-  ),
-  Aeross: (
-    <ImageHolder
-      primarySource={Asset.AerossLogo}
-      secondarySource={Asset.FallbackAerossLogo}
-      alt="Aerospace Society, D.P.S. R. K. Puram"
-      className={`card-img ${styles.image}`}
-    />
-  ),
+  // ILinkDigital: (
+  //   <ImageHolder
+  //     primarySource={Asset.ILinkDigitalLogo}
+  //     secondarySource={Asset.FallbackILinkDigitalLogo}
+  //     alt="iLink Digital Inc."
+  //     className={`card-img ${styles.image}`}
+  //   />
+  // ),
+  // InnovationM: (
+  //   <ImageHolder
+  //     primarySource={Asset.InnovationMLogo}
+  //     secondarySource={Asset.FallbackInnovationMLogo}
+  //     alt="InnovationM Mobile & Web Technologies"
+  //     className={`card-img ${styles.image}`}
+  //   />
+  // ),
+  // VirtuBox: (
+  //   <ImageHolder
+  //     primarySource={Asset.VirtuBoxLogo}
+  //     secondarySource={Asset.FallbackVirtuBoxLogo}
+  //     alt="VirtuBox Infotech"
+  //     className={`card-img ${styles.image}`}
+  //   />
+  // ),
+  // UMass: (
+  //   <ImageHolder
+  //     primarySource={Asset.UMassLogo}
+  //     secondarySource={Asset.FallbackUMassLogo}
+  //     alt="University of Massachusetts Amherst"
+  //     className={`card-img ${styles.image}`}
+  //   />
+  // ),
+  // DPSRKP: (
+  //   <ImageHolder
+  //     primarySource={Asset.DPSRKPLogo}
+  //     secondarySource={Asset.FallbackDPSRKPLogo}
+  //     alt="Delhi Public School, R. K. Puram"
+  //     className={`card-img ${styles.image}`}
+  //   />
+  // ),
+  // "TEDx@DPSRKP": (
+  //   <ImageHolder
+  //     primarySource={Asset.TEDxLogo}
+  //     secondarySource={Asset.FallbackTEDxLogo}
+  //     alt="TEDxYouth@DPSRKPuram"
+  //     className={`card-img ${styles.image}`}
+  //   />
+  // ),
+  // Aeross: (
+  //   <ImageHolder
+  //     primarySource={Asset.AerossLogo}
+  //     secondarySource={Asset.FallbackAerossLogo}
+  //     alt="Aerospace Society, D.P.S. R. K. Puram"
+  //     className={`card-img ${styles.image}`}
+  //   />
+  // ),
 };
 
 const ExperienceCard = (props) => {
@@ -118,7 +118,7 @@ const ExperienceCard = (props) => {
             href={props.liveUrl}
             target="_blank"
           >
-            Visit Website
+            Visitar Sitio
           </Button>
         ) : null}
         {props.description ? (
@@ -128,7 +128,7 @@ const ExperienceCard = (props) => {
               variant="secondary"
               onClick={handleModalOpen}
             >
-              View Description
+              Leer Deberes
             </Button>
             <Modal
               centered

@@ -1,13 +1,13 @@
 import React from "react";
 import { Container, Row } from "react-bootstrap";
-import { Header, ProjectCard } from "../../components";
+import { Header, ProjectsCard } from "../../components";
 import projectsData from "../../data/Projects.json";
 import styles from "./Projects.module.css";
 
 const Projects = () => {
   return (
     <React.Fragment>
-      <Header title="Projects" />
+      <Header title="Formación" />
       <Container fluid className={styles.container}>
         <Row
           style={{
@@ -17,7 +17,7 @@ const Projects = () => {
           }}
         >
           {projectsData.map((obj, index) => (
-            <ProjectCard
+            <ProjectsCard
               key={index}
               title={obj.title}
               content={obj.content}

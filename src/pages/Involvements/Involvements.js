@@ -7,7 +7,7 @@ import styles from "./Involvements.module.css";
 const Involvements = () => {
   return (
     <React.Fragment>
-      <Header title="Involvements" />
+      <Header title="Experiencia" />
       <Container fluid className={styles.container}>
         <Row
           style={{

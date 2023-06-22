@@ -1,60 +1,52 @@
 [
   {
-    "title": "Undergraduate Course Assistant",
-    "organization": "Manning CICS, UMass Amherst",
-    "liveUrl": "https://www.cics.umass.edu/",
-    "duration": "August 2021 - December 2022",
+    "title": "Lider Eléctrico de Mantenimiento",
+    "organization": "SIGMA S.A.",
+    "liveUrl": "https://sigmasa.cl/",
+    "duration": "Noviembre 2022 - Actualidad",
     "description": [
-      "Coordinated with the instructor to aid students taking COMPSCI 240 understand the principles of Probability Theory",
-      "Graded homework assignments for 300+ students, provided constructive feedback to help students employ better strategies, and responded to students' questions on Piazza to clarify core concepts and resolve doubts about the course materials"
+      "Lider eléctrico en el mantenimiento de infraestructura eléctrica, Control e Instrumentación en el Proyecto Mina Chuquicamata Subterránea con deberes en:",
+      "Coordinar y liderar equipos de trabajo para la realización de labores de mantenimiento en Correas Transportadoras, Salas Eléctricas, UPS, CCM, Switchgear, VDF entre otros.",
+      "Coordinar y liderar equipos de trabajo para la realización de labores de mantenimiento en Correas Transportadoras, Salas Eléctricas, UPS, CCM, Switchgear, VDF entre otros."
     ],
-    "logo": "CICS"
+    "logo": "sigma"
   },
   {
-    "title": "Software Engineer Intern",
-    "organization": "iLink Digital",
-    "liveUrl": "https://www.ilink-digital.com/",
-    "duration": "May 2022 - August 2022",
+    "title": "Field Service Engineer",
+    "organization": "Eecol Electric",
+    "liveUrl": "https://eecol.cl/",
+    "duration": "Julio 2022 - Noviembre 2022",
     "description": [
-      "Enhanced and refactored an organization effectiveness management dashboard built on Angular and Ionic, in a team of 4 frontend developers, by constructing generating methods for 2 large-scale UI components consuming served JSON",
-      "Reduced server-client latency by minimizing the key-value terms by ~30% while maintaining a lossless JSON structure",
-      "Consulted on hybrid cloud portal for managing client Edge-computing resources, and AWS and Azure cloud resources"
+      "Ingeniero de servicios para distintos clientes del área de la minería, industria y energía con deberes en:",
+      "Apoyar como vendor en la puesta en marcha y comisionamiento de Salas Eléctricas, Subestaciones Unitarias, Transformadores de Media Tensión, Celdas de Media Tensión y Tableros Eléctricos",
+      "Supervisar el mantenimiento de UPS, CCM, Switchgear y VDF",
+      "Realizar pruebas de interruptores y seccionadores de baja, media y alta tensión, tales como medición de tiempos de operación, simultaneidad de contacto y resistencia de contacto"
     ],
-    "logo": "ILinkDigital"
+    "logo": "eecol"
   },
   {
-    "title": "Software Development Intern",
-    "organization": "InnovationM Mobile & Web Technologies",
-    "liveUrl": "https://www.innovationm.com/",
-    "duration": "June 2021 - August 2021",
+    "title": "Ingeniero Eléctrico de pruebas AT",
+    "organization": "Proimel Ltda.",
+    "liveUrl": "https://www.mercantil.com/empresa/proyectos-ingenieria-y-montajes-electricos-limitada/san-miguel/300464579/esp/",
+    "duration": "Enero 2019 - Abril 2022",
     "description": [
-      "Developed a grievance redress platform for internal use by 200+ employees from scratch, engineering the back end using Node.js + Express server and modeling database layer with MongoDB through the mongoose wrapper for JavaScript",
-      "Designed the front end using React with Redux for state management and performed API integration of 10+ endpoints, followed by containerizing the application through Docker for easier deployment in an expansive micro-service architecture"
+      "Realizar pruebas de aceptación en sitio (SAT) a equipos primarios de subestaciones eléctricas y la confección de sus protocolos para presentar ante el Coordinador Eléctrico Nacional",
+      "Jefe de terreno en mantenimiento preventivo de transformadores de poder en subestaciones y centrales generadoras",
+      "Ejecutar pruebas VLF a cables de media tensión.",
+      "Ejecutar pruebas Hi-Pot a equipos primarios en subestaciones",
+      "Medición de mallas de puesta a tierra de sistemas de alta tensión, medición de tensión de paso y contacto"
     ],
-    "logo": "InnovationM"
+    "logo": "proimel"
   },
   {
-    "title": "Business Development Associate",
-    "organization": "VirtuBox Infotech",
-    "liveUrl": "https://www.virtubox.io/",
-    "duration": "July 2020 - August 2020",
+    "title": "Técnico de pruebas lumínicas",
+    "organization": "Laboratorio de Fotometría PUCV",
+    "liveUrl": "https://fotometriapucv.cl/",
+    "duration": "Marzo 2018 - Enero 2019",
     "description": [
-      "Developed engineering workflows and prepared suggestions for a smoother transition from Vue.js codebase to React codebase for CMS",
-      "Worked on competitor analysis, keyword research, and image production, for app-store optimization of 5 client applications",
-      "Produced 10+ video tutorials explaining the functionality of the company’s CMS dashboard, for publication on YouTube"
+      "Técnico eléctrico en pruebas a luminarias tales como:",
+      "Fotometría de luminarias y proyectores, Espectroradiometría, Contaminación lumínica de fuentes de luz según D.S. N°43/2012 del MMA, Ensayos de parámetros eléctricos, Seguridad Eléctrica"
     ],
-    "logo": "VirtuBox"
-  },
-  {
-    "title": "Class of 2023",
-    "organization": "University of Massachusetts Amherst",
-    "liveUrl": "https://www.umass.edu",
-    "logo": "UMass"
-  },
-  {
-    "title": "Class of 2019",
-    "organization": "Delhi Public School, R. K. Puram",
-    "liveUrl": "https://www.dpsrkp.net",
-    "logo": "DPSRKP"
+    "logo": "labo"
   }
 ]

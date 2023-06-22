@@ -1,13 +1,14 @@
 .container {
   display: flex;
   width: 28em;
+  height: 22em;
   max-width: 90vw;
   padding: 2em;
   margin: 0.5em;
 }
 
 .button {
-  margin: 0.25em;
+  margin: 0.1em;
 }
 
 .icon {
