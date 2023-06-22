@@ -118,7 +118,7 @@ const ExperienceCard = (props) => {
             href={props.liveUrl}
             target="_blank"
           >
-            Visitar Sitio
+            Sitio WEB
           </Button>
         ) : null}
         {props.description ? (
@@ -128,7 +128,7 @@ const ExperienceCard = (props) => {
               variant="secondary"
               onClick={handleModalOpen}
             >
-              Leer Deberes
+              Descripción
             </Button>
             <Modal
               centered

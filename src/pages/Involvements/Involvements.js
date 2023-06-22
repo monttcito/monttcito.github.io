@@ -25,7 +25,7 @@ const Involvements = () => {
               duration={obj.duration}
               description={obj.description}
               logo={obj.logo}
-              variant="success"
+              variant="danger"
             />
           ))}
         </Row>
